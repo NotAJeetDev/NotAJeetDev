@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NotAJeetDev
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning Solidity
-- 📫 How to reach me ...
+- 📫 How to reach me https://t.me/NotAJeet
 
 <!---
 NotAJeetDev/NotAJeetDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
