@@ -10,7 +10,7 @@
 - [Aurora Community](https://www.theauroracommunity.io/)
 
 ### Past Projects
-- [Moonswap Unrekt (RIP)](https://unrekt.moonswap.in/)
+- [Moonswap Unrekt ⚰️](https://unrekt.moonswap.in/)
 - [CRODEX Contract Permissions Auditor](https://auditor.crodex.app/)
 - [CroKing Rewards Dashboard](https://rewards.croking.net/)
 - [CroBTC Rewards Dashboard](https://rewards.crobtc.org/)
