@@ -1,13 +1,14 @@
 ### About Me
 - 👋 Hi, I’m @NotAJeetDev
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in tech, food, and coffee
+- 🌱 I’m currently learning Solidity, Go, and GraphQL
 - 📫 How to reach me https://t.me/NotAJeet
 
 ### Current Projects
 - [CroKing dApps](https://app.croking.net/)
 - [revoker.app](https://revoker.app/)
 - [Aurora Community](https://www.theauroracommunity.io/)
+- Good Driver Reward Token
 
 ### Past Projects
 - [Moonswap Unrekt ⚰️](https://unrekt.moonswap.in/)
@@ -17,6 +18,7 @@
 - [CroMino Rewards Dashboard - Not sure of the URL](https://google.com)
 
 ### Upcoming Projects
+
 - Coming soon 👀
 
 ### Want to work with me?
